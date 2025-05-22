@@ -1,9 +1,5 @@
 # IoT-Based Warehouse Temperature and Humidity Monitoring System
 
-> 📦 **Note:** The main repository for this project is hosted at [this repository](https://github.com/tzucun/Pemantauan-Suhu-dan-Kelembapan-berbasis-IoT-ESP32-DHT22-dan-Bot-Telegram).
-
----
-
 ## 📌 Project Overview
 
 This project implements a real-time temperature and humidity monitoring system for warehouse storage, using IoT technology. It is designed to help prevent damage to goods caused by poor environmental conditions.
